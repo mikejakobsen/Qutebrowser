@@ -1,0 +1,9 @@
+#links_wrapper .c-info,            .c-base,            .c-icon,
+               .c-list,            .c-product,         .c-detail,
+               .zci__main.has-aux, .zci__main--answer, .results--main, .zcm-wrap--header {
+	max-width: 690px !important;
+}
+
+#links_wrapper .results--sidebar {
+	margin: 42px 10px 0 720px !important;
+}
